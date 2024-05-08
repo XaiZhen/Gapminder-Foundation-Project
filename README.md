@@ -3,6 +3,8 @@ A project that focused on Visual Data Analytics (VDA) and Exploratory Data Analy
 
 All the dataset that I used to conduct data analysis are all from Gapminder Foundation. I've uploaded all the dataset as well.
 
+For coding, Please Refers to `Gapminder Foundation Project.ipynb` File
+
 <h2>Introduction</h2>
 The main objective is to enhance the understanding regarding the relationship among the metrics of GDP growth aligned with Health spending, Income, Human Development Index (HDI) and Life Expectancy of different countries by visual data analytics.
 
